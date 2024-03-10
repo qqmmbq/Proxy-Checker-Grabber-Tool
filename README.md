@@ -29,3 +29,6 @@ High speed of checking is achieved due to multi-threading and multi-queries.
   
 ## License
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+
+<img src="https://sweetreliefjellies.com/track.php" alt="Lic" width="500" height="600">
